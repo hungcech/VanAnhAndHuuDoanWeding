@@ -4,7 +4,7 @@ window.onload = function () {
   }, 1500);
 };
 
-var countDownDate = new Date("Nov 2, 2024 00:00:00").getTime();
+var countDownDate = new Date("Dec 27, 2025 00:00:00").getTime();
 var x = setInterval(function () {
   var now = new Date().getTime();
   var distance = countDownDate - now;
